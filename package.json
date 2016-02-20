@@ -1,0 +1,14 @@
+{
+  "name": "Keyboard to Serialport",
+  "version": "0.0.1",
+  "description": "send keypress value to serialport right away",
+  "keywords": [
+    "keypress",
+    "serialport"
+  ],
+  "author": "Sarin Suriyakoon (pacosarin@gmail.com)",
+  "dependencies": {
+    "keypress": "1.0.0",
+    "serialport": "2.0.6"
+  }
+}
